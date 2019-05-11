@@ -1,0 +1,13 @@
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\ASHIMA\source\repos\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
